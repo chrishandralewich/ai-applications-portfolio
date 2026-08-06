@@ -9,7 +9,7 @@ It serves as both an academic submission and a professional portfolio demonstrat
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ### 🔹 Assignments
 Each assignment folder includes:
@@ -35,7 +35,7 @@ Helpful links, datasets, tools, and references used throughout the course.
 
 ---
 
-## 📌 Course Overview
+##  Course Overview
 
 This course covered:
 - AI fundamentals and terminology  
@@ -48,7 +48,7 @@ Throughout the semester, I gained hands‑on experience using AI tools, building
 
 ---
 
-## 🎤 Final Presentation
+##  Final Presentation
 
 A 5‑slide portfolio presentation is included in this repository.  
 It highlights:
@@ -60,19 +60,7 @@ It highlights:
 
 ---
 
-## 🔗 Repository Names (All Three Options)
+##  Contact
 
-This README works with any of the following repo names:
-
-1. **ai-applications-portfolio**  
-2. **ITAI-2372-portfolio**  
-3. **ai-learning-portfolio**
-
-Choose whichever fits your style or instructor preference.
-
----
-
-## 📬 Contact
-
-**Name:** Chrishandra  
-**Email:** w201183640@student.hccs.edu  
+**Name:** Chrishandra Lewich 
+**Email:** chrishandralewich@outlook.com  
